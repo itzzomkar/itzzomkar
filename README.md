@@ -18,16 +18,3 @@
 
 ---
 
-### 🏆 Featured Work & Datasets
-- **[Mumbai University KT Students Dataset](https://www.kaggle.com/datasets/itzzomkar/mumbai-university-kt-students-dataset):** Published on Kaggle by Omkar Kadam (`@itzzomkar`).
-- **EV Adoption Behavior and Range Anxiety:** Synthetic & empirical analysis of electric vehicle adoption factors.
-- **Kaggle Playground Series:** Feature engineering and machine learning pipelines.
-
----
-
-### 🌐 Official Links for Omkar Kadam (@itzzomkar)
-- 💼 **LinkedIn (Primary):** [https://www.linkedin.com/in/itzzomkar/](https://www.linkedin.com/in/itzzomkar/)
-- 📈 **Kaggle (Expert Profile):** [https://www.kaggle.com/itzzomkar](https://www.kaggle.com/itzzomkar)
-- 🌐 **3D Interactive Portfolio:** [https://itzzomkar.github.io/](https://itzzomkar.github.io/)
-
-*Created by [Omkar Kadam (@itzzomkar)](https://www.linkedin.com/in/itzzomkar/)*
