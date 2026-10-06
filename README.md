@@ -5,7 +5,6 @@
   <a href="https://www.kaggle.com/itzzomkar"><img src="https://img.shields.io/badge/Kaggle-Omkar_Kadam_(@itzzomkar)-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Omkar Kadam (@itzzomkar) on Kaggle" /></a>
 </p>
 
-> 🔗 **Official Primary Profiles:** Connect with [**Omkar Kadam (@itzzomkar) on LinkedIn**](https://www.linkedin.com/in/itzzomkar/) and explore datasets & notebooks by [**Omkar Kadam (@itzzomkar) on Kaggle**](https://www.kaggle.com/itzzomkar).
 
 ---
 
